@@ -1,2 +1,2 @@
 # mi-primer-repositorionube
-Este repositorio es para practica personal
+Este repositorio es para practica
